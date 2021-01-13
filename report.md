@@ -24,3 +24,5 @@ To make a numbered list:
 1. Item 6
 
 just use normal text to break the list
+
+To italcize text just do *italcize*
